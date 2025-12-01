@@ -25,7 +25,6 @@ To use these notebooks, open the corresponding links in Google Colab. You can th
 
 ## Requirements
 
-- A Google Colab account  
 - Common Python libraries such as:
   - `pandas`
   - `numpy`
